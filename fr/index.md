@@ -3,44 +3,43 @@
 layout: home
 
 hero:
-  name: "Lehrbuch EspaceSuisse"
-  text: "Lerne Raumplanung auf die Einfache Art"
-  tagline: Die Raumplanung ist an allem Schuld
+  name: "Manuel EspaceSuisse"
+  text: "Apprenez l'aménagement du territoire de manière simple"
+  tagline: "L'aménagement du territoire est coupable de tout"
   actions:
     - theme: brand
-      text: Start
+      text: "Démarrer"
       link: /1-resource-boden
 
 features:
-  - title: 1. Die Resource Boden
+  - title: "1. La ressource sol"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 2. Die Gesetzgebung
+  - title: "2. La législation"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 3. Ziele & Grundsätzte
+  - title: "3. Objectifs & principes"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 3. Ziele & Grundsätzte
+  - title: "3. Objectifs & principes"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 4. Bundesplanung
+  - title: "4. Planification fédérale"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 5. Kantonale Planung
+  - title: "5. Planification cantonale"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 6. Funktionale Räume
+  - title: "6. Espaces fonctionnels"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 7. Kommunale Planung
+  - title: "7. Planification communale"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 8. Baubewilligung
+  - title: "8. Autorisation de construire"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 9. BABZ
+  - title: "9. BABZ"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 10. Ausgleich Vor & Nachteile
+  - title: "10. Compensation : Avantages & inconvénients"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 11. Lärm & Umwelt
+  - title: "11. Bruit & environnement"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 12. Natur und Heimatschutz
+  - title: "12. Protection de la nature et du patrimoine"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 13. Wald
+  - title: "13. Forêt"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 14 Verkehr
+  - title: "14. Transports"
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
