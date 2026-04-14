@@ -4,7 +4,7 @@ import markdownItFootnote from 'markdown-it-footnote'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: './content', 
-  base: '/',
+  base: process.env.VITEPRESS_BASE || '/', 
     markdown: {
     config: (md) => {
       md.use(markdownItFootnote)
