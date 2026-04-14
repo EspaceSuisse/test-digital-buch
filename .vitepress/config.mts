@@ -8,7 +8,7 @@ export default defineConfig({
       { rel: 'stylesheet', href: 'https://use.typekit.net/zfp0qhw.css' }
     ]
   ],
-  title: "Digitalbuch | EspaceSuisse",
+  title: "Lehrbuch | EspaceSuisse",
   description: "Lerne Raumplanung auf die Einfache Art",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

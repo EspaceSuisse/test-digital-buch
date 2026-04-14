@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Digitalbuch | EspaceSuisse"
+  name: "Lehrbuch EspaceSuisse"
   text: "Lerne Raumplanung auf die Einfache Art"
   tagline: Die Raumplanung ist an allem Schuld
   actions:

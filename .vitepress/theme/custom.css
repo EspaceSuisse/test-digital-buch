@@ -1,24 +1,85 @@
 :root {
+    /* font variables */
     --vp-font-family-base: 'freight-text-pro', serif;
     --vp-font-family-display: 'work-sans', sans-serif;
+    --vp-font-family-mono: 'aglet-mono', mono;
+
+    --es-font-size-default: 18px;
+    --es-font-size-small: 16px;
+
+    /* EspaceSuisse variables */
+    --es-color-default: #1c70b8;
+
+    --es-color-default-dark: #1d4465;
+    --es-color-default-light: #c6d2de;
+
+    /* background colros ES */
+    --es-color-dark: #081927;
+    --es-color-light: #e2edf6;
+
+    /* standard color variables */
+    --vp-sidebar-bg-color: var(--es-color-default-light);
+    --vp-c-bg: var(--es-color-light);
+
+    /* startpage */
+    --vp-home-hero-name-color: var(--es-color-default);
+
+    /* button */
+    --vp-button-brand-bg: var(--es-color-default);
 }
+html.dark {
+    --vp-sidebar-bg-color: var(--es-color-default-dark);
+    --vp-c-bg: var(--es-color-dark) ;
+}
+body {
+    font-size: var(--es-font-size-default);
+}
+
+
 .vp-doc {
     h1, h2,h3,h4,h5,h6 {
         font-family: var(--vp-font-family-display);
     }
+    a {
+        color: var(--es-color-default);
+    }
 }
-.title {
+.title, .VPButton, .heading .name {
     font-family: var(--vp-font-family-display);
 }
-.VPSidebar h2 {
-    font-family: var(--vp-font-family-display);
+.VPSidebar {
+    h2.text {
+        font-family: var(--vp-font-family-display);
+        font-size: var(--es-font-size-default);
+    }
+    .text {
+        font-size: var(--es-font-size-small);
+    }
 }
 .VPNavBarMenu .link {
     font-family: var(--vp-font-family-display);
+    font-size: var(--es-font-size-default);
 }
-.VPDocAsideOutline .outline-title {
-    font-family: var(--vp-font-family-display);
+.VPDocAside{
+    .outline-title {
+        font-family: var(--vp-font-family-display);
+        font-size: var(--es-font-size-default);
+    }
+    .outline-link {
+        font-size: var(--es-font-size-small);
+    }
 }
-.custom-block-title, .custom-block summary {
-    font-family: var(--vp-font-family-display);
+.custom-block {
+    .custom-block-title, summary {
+        font-family: var(--vp-font-family-display);
+        font-size: var(--es-font-size-default);
+    }
+}
+.VPFeatures {
+    h2.title {
+        font-size: var(--es-font-size-default);
+    }
+    .details {
+        font-size: var(--es-font-size-default);
+    }
 }
