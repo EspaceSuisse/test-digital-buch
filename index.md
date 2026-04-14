@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Digitalbuch | EspaceSuisse"
   text: "Lerne Raumplanung auf die Einfache Art"
-  tagline: My great project tagline
+  tagline: Die Raumplanung ist an allem Schuld
   actions:
     - theme: brand
       text: Markdown Examples

@@ -2,6 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    [
+      'link',
+      { rel: 'stylesheet', href: 'https://use.typekit.net/zfp0qhw.css' }
+    ]
+  ],
   title: "Digitalbuch | EspaceSuisse",
   description: "Lerne Raumplanung auf die Einfache Art",
   themeConfig: {

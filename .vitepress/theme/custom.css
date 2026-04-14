@@ -1,0 +1,24 @@
+:root {
+    --vp-font-family-base: 'freight-text-pro', serif;
+    --vp-font-family-display: 'work-sans', sans-serif;
+}
+.vp-doc {
+    h1, h2,h3,h4,h5,h6 {
+        font-family: var(--vp-font-family-display);
+    }
+}
+.title {
+    font-family: var(--vp-font-family-display);
+}
+.VPSidebar h2 {
+    font-family: var(--vp-font-family-display);
+}
+.VPNavBarMenu .link {
+    font-family: var(--vp-font-family-display);
+}
+.VPDocAsideOutline .outline-title {
+    font-family: var(--vp-font-family-display);
+}
+.custom-block-title, .custom-block summary {
+    font-family: var(--vp-font-family-display);
+}
