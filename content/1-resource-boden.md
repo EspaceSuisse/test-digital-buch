@@ -4,7 +4,7 @@
 
 ## 1.1 Entwicklung der Bodennutzung
 
-Die Ressource Boden ist in der Schweiz ein kostbares Gut. Das Land weist eine Gesamtfläche von 41'285 km<sup>2</sup> auf. Davon sind etwa ein Viertel unproduktive Flächen (Fels, Eis, Gewässer etc.). Ein knappes Drittel ist Wald und etwas mehr als ein Drittel sind landwirtschaftliche Nutzflächen (Wies- und Ackerland, Alpwiesen, Obst- und Rebbau etc.). Statistisch werden rund acht Prozent der Gesamtfläche zur Siedlungsfläche gezählt. Dazu gehören Gebäudeareale, Industrie- und Gewerbeareale, Verkehrsflächen, Erholungs- und Grünanlagen sowie besondere Siedlungsflächen wie Deponien oder Gebiete für den Kiesabbau.<sup>[\[1\]](#footnote-1)</sup>
+Die Ressource Boden ist in der Schweiz ein kostbares Gut. Das Land weist eine Gesamtfläche von 41'285 km<sup>2</sup> auf. Davon sind etwa ein Viertel unproduktive Flächen (Fels, Eis, Gewässer etc.). Ein knappes Drittel ist Wald und etwas mehr als ein Drittel sind landwirtschaftliche Nutzflächen (Wies- und Ackerland, Alpwiesen, Obst- und Rebbau etc.). Statistisch werden rund acht Prozent der Gesamtfläche zur Siedlungsfläche gezählt. Dazu gehören Gebäudeareale, Industrie- und Gewerbeareale, Verkehrsflächen, Erholungs- und Grünanlagen sowie besondere Siedlungsflächen wie Deponien oder Gebiete für den Kiesabbau.[^1]:
 
 Als besiedelbare Flächen gelten lediglich etwas mehr als 30 Prozent der gesamten Landesfläche. Dazu zählen die Siedlungsflächen und die landwirtschaftlichen Nutzflächen, ohne die alpwirtschaftlichen Maiensässe, Bergwiesen und Alpweiden. Auf diesem knappen Drittel spielt sich das Leben in der Schweiz mehrheitlich ab. Den Boden nutzen wir für das Wohnen und Arbeiten, für unsere Mobilität, für Versorgungs- und Entsorgungseinrichtungen, für gewerbliche und landwirtschaftliche Produktion sowie für die Erholung.
 
@@ -101,7 +101,7 @@ Die vielfältigen Landschaften der Schweiz, die sich durch ihre räumlichen Unte
 
 Infolge des Siedlungswachstums und des Ausbaus der Verkehrswege (> Ziff. 1.2 und 1.3) hat die Zerschneidung der Landschaft in den letzten Jahrzehnten stark zugenommen. Die zerschnittenen Flächen (Restflächen) erschweren die Vernetzung der Landschaften und der Ökosysteme. Diese Vernetzung ist jedoch notwendig, um einen Rückgang der Biodiversität und damit eine Abnahme der Artenvielfalt zu verhindern (> Ziff. 12.3). Biodiversität ist angewiesen auf eine Vielfalt an Ökosystemen und genetischen Arten sowie auf die Wechselwirkungen zwischen diesen. Mit Vernetzungskorridoren lassen sich unterschiedliche Ökosysteme - beispielsweise Naturschutzgebiete, extensiv genutzte landwirtschaftliche Flächen, Gewässerräume oder städtische Grün- und Freiräume - wieder miteinander verbinden. Auch der Wildwechsel kann dadurch gefördert werden. Heute sind etwa 12,5 Prozent der Landesfläche der Schweiz als Gebiete mit hoher Biodiversität ausgewiesen. 6,2 Prozent davon sind nationale Schutzgebiete, 3,1 Prozent sind auf kantonaler Ebene geschützt.<sup>[\[28\]](#footnote-28)</sup> Die Raumplanung kann mithelfen, die ökologische Infrastruktur weiter auszubauen und zu sichern.
 
-![](./img/de/Abb.-7_Biodiversität-und-Naturräume.jpg)
+![](./img/de/Abb.-7_Biodiversitaet-und-Naturraeume.jpg)
 *Abbildung 7: Fast die Hälfte aller untersuchten Tier- und Pflanzenarten in der Schweiz sind gefährdet.*
 
 Quelle: ARE, 2018, Trends und Herausforderungen: Zahlen und Hintergründe zum Raumkonzept Schweiz, S. 35
@@ -139,68 +139,68 @@ Die Megatrends bringen für Bund, Kantone und Gemeinden sowohl Herausforderungen
 [Rat für Raumordnung](https://www.are.admin.ch/de/rat-fuer-raumordnung-ror)
 
 ## Verweise
-- Die vollständigen Ergebnisse der neusten Arealstatistik 2013/18 werden voraussichtlich 2021 veröffentlicht. Deshalb stützen wir uns in Kapitel 1 auf die älteren Arealstatistiken, auf die Teilergebnisse der Statistik 2013/18 basierend auf 66 Prozent und 83 Prozent der Landesfläche sowie auf daraus abgeleitete Schätzungen. [↑](#footnote-ref-1)
+[^1]: Die vollständigen Ergebnisse der neusten Arealstatistik 2013/18 werden voraussichtlich 2021 veröffentlicht. Deshalb stützen wir uns in Kapitel 1 auf die älteren Arealstatistiken, auf die Teilergebnisse der Statistik 2013/18 basierend auf 66 Prozent und 83 Prozent der Landesfläche sowie auf daraus abgeleitete Schätzungen.
 
-- BFS, Arealstatistik 2004/09 und Arealstatistik 2013/18 (Teilauswertung, basierend auf 66 bzw. 83 Prozent der Landesfläche) (z.T. nicht veröffentlichte Daten, vom BFS zur Verfügung gestellt). [↑](#footnote-ref-2)
+- BFS, Arealstatistik 2004/09 und Arealstatistik 2013/18 (Teilauswertung, basierend auf 66 bzw. 83 Prozent der Landesfläche) (z.T. nicht veröffentlichte Daten, vom BFS zur Verfügung gestellt). [↑](#footnote-2)
 
-- BFS, 2014, Siedlungsflächen pro Einwohner, Landschaft Schweiz im Wandel, Neuenburg (<https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/publikationen.assetdetail.349691.html>; Abfrage vom 26.8.2020) [↑](#footnote-ref-3)
+- BFS, 2014, Siedlungsflächen pro Einwohner, Landschaft Schweiz im Wandel, Neuenburg (<https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/publikationen.assetdetail.349691.html>; Abfrage vom 26.8.2020) [↑](#footnote-3)
 
-- BFS, 2019, Arealstatistik, Siedlungsflächen pro Einwohner, Kantone / Städte, Neuenburg. (<https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/bodennutzung-bedeckung/siedlungsflaechen/einwohner-arbeitsplatz.assetdetail.11007207.html>; Abfrage vom 1.9.2020) [↑](#footnote-ref-4)
+- BFS, 2019, Arealstatistik, Siedlungsflächen pro Einwohner, Kantone / Städte, Neuenburg. (<https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/bodennutzung-bedeckung/siedlungsflaechen/einwohner-arbeitsplatz.assetdetail.11007207.html>; Abfrage vom 1.9.2020) [↑](#footnote-4)
 
-- BFS, 2018, Arealstatistik 1979/85 - 2013/18, Neuenburg; Auswertung basierend auf 83 Prozent der Landesfläche) und gemäss eigener Berechnung. [↑](#footnote-ref-5)
+- BFS, 2018, Arealstatistik 1979/85 - 2013/18, Neuenburg; Auswertung basierend auf 83 Prozent der Landesfläche) und gemäss eigener Berechnung. [↑](#footnote-5)
 
-- BFS, 2019, Statistischer Atlas der Schweiz, Einpersonenhaushalte 2018, Neuenburg. (<https://www.atlas.bfs.admin.ch/maps/13/de/14711_3033_3032_70/23355.html>; Onlineabfrage vom 26.8.2020) [↑](#footnote-ref-6)
+- BFS, 2019, Statistischer Atlas der Schweiz, Einpersonenhaushalte 2018, Neuenburg. (<https://www.atlas.bfs.admin.ch/maps/13/de/14711_3033_3032_70/23355.html>; Onlineabfrage vom 26.8.2020) [↑](#footnote-6)
 
-- BFS, 2020, Bau- und Wohnungswesen 2018, Neuenburg, S. 9 ff. [↑](#footnote-ref-7)
+- BFS, 2020, Bau- und Wohnungswesen 2018, Neuenburg, S. 9 ff. [↑](#footnote-7)
 
-- BFS, 2020, Bevölkerungsentwicklung von 2020 bis 2025: Medienmitteilung, Neuenburg. [↑](#footnote-ref-8)
+- BFS, 2020, Bevölkerungsentwicklung von 2020 bis 2025: Medienmitteilung, Neuenburg. [↑](#footnote-8)
 
-- Mobilität und Verkehr sind keine Synonyme. Erstere umfasst die Möglichkeit und Bereitschaft von Menschen und Gütern, sich im Raum zu bewegen oder bewegt zu werden. Der zweitgenannte Begriff dagegen meint die tatsächlich umgesetzten und messbaren örtlichen Verschiebungen von Personen und Gütern. UVEK, 2017, Zukunft Mobilität Schweiz: UVEK-Orientierungsrahmen 2040, Bern, S. 7. [↑](#footnote-ref-9)
+- Mobilität und Verkehr sind keine Synonyme. Erstere umfasst die Möglichkeit und Bereitschaft von Menschen und Gütern, sich im Raum zu bewegen oder bewegt zu werden. Der zweitgenannte Begriff dagegen meint die tatsächlich umgesetzten und messbaren örtlichen Verschiebungen von Personen und Gütern. UVEK, 2017, Zukunft Mobilität Schweiz: UVEK-Orientierungsrahmen 2040, Bern, S. 7. [↑](#footnote-9)
 
-- BFS, 2017, Verkehrsverhalten der Bevölkerung 2015, Neuenburg, S. 6. [↑](#footnote-ref-10)
+- BFS, 2017, Verkehrsverhalten der Bevölkerung 2015, Neuenburg, S. 6. [↑](#footnote-10)
 
-- Ebd., S. 10. [↑](#footnote-ref-11)
+- Ebd., S. 10. [↑](#footnote-11)
 
-- Ebd., S. 8. [↑](#footnote-ref-12)
+- Ebd., S. 8. [↑](#footnote-12)
 
-- BFS, 2019, Landschaft Schweiz im Wandel - Siedlungsentwicklung, Neuenburg, S. 4. [↑](#footnote-ref-13)
+- BFS, 2019, Landschaft Schweiz im Wandel - Siedlungsentwicklung, Neuenburg, S. 4. [↑](#footnote-13)
 
-- Quelle: BFS, 2020, Mobilität und Verkehr, Taschenstatistik 2020, Neuenburg, S. 3 [↑](#footnote-ref-14)
+- Quelle: BFS, 2020, Mobilität und Verkehr, Taschenstatistik 2020, Neuenburg, S. 3 [↑](#footnote-14)
 
-- BFS, 2018, Arealstatistik 2013/2018 (vorläufige Ergebnisse, nicht veröffentlicht), Neuenburg [↑](#footnote-ref-15)
+- BFS, 2018, Arealstatistik 2013/2018 (vorläufige Ergebnisse, nicht veröffentlicht), Neuenburg [↑](#footnote-15)
 
-- ARE, 2008, Die Brachen der Schweiz: Reporting 2008, Bern, S. 4. [↑](#footnote-ref-16)
+- ARE, 2008, Die Brachen der Schweiz: Reporting 2008, Bern, S. 4. [↑](#footnote-16)
 
-- Fahrländer Partner AG, 2017, Neue Brachen im Überblick, Bern, S. 15. [↑](#footnote-ref-17)
+- Fahrländer Partner AG, 2017, Neue Brachen im Überblick, Bern, S. 15. [↑](#footnote-17)
 
-- BFS, 2019, Landschaft Schweiz im Wandel - Siedlungsentwicklung, Neuenburg, S. 3. [↑](#footnote-ref-18)
+- BFS, 2019, Landschaft Schweiz im Wandel - Siedlungsentwicklung, Neuenburg, S. 3. [↑](#footnote-18)
 
-- Bauzone und Siedlungsfläche sind nicht das Gleiche. Die Siedlungsfläche nach Arealstatistik (siehe Ziff. 1.1) ist eine statistische Grösse. Diese stellt die konkrete Nutzung des Bodens fest und umfasst Gebäudeareale, Industrie- und Gewerbeareale, Verkehrsflächen, besondere Siedlungsflächen (wie Infrastrukturanlagen, Brachen oder Deponien) sowie Erholungs- und Grünanlagen. Bauzone ist ein raumplanerischer Begriff. Er beschreibt eine im Nutzungsplan scharf definierte Fläche, die nach Bundesrecht bebaut werden kann (siehe Ziff. 7.4.3.1). [↑](#footnote-ref-19)
+- Bauzone und Siedlungsfläche sind nicht das Gleiche. Die Siedlungsfläche nach Arealstatistik (siehe Ziff. 1.1) ist eine statistische Grösse. Diese stellt die konkrete Nutzung des Bodens fest und umfasst Gebäudeareale, Industrie- und Gewerbeareale, Verkehrsflächen, besondere Siedlungsflächen (wie Infrastrukturanlagen, Brachen oder Deponien) sowie Erholungs- und Grünanlagen. Bauzone ist ein raumplanerischer Begriff. Er beschreibt eine im Nutzungsplan scharf definierte Fläche, die nach Bundesrecht bebaut werden kann (siehe Ziff. 7.4.3.1). [↑](#footnote-19)
 
-- ARE, 2019, Monitoring Bauen ausserhalb der Bauzone - Standbericht 2019, Bern, S. 3. [↑](#footnote-ref-20)
+- ARE, 2019, Monitoring Bauen ausserhalb der Bauzone - Standbericht 2019, Bern, S. 3. [↑](#footnote-20)
 
-- Ebd., S. 11. [↑](#footnote-ref-21)
+- Ebd., S. 11. [↑](#footnote-21)
 
-- ARE/BAFU, 2020, Integration von Informationen zur Bodenqualität in der Raumplanung, Synthesebericht, Bern S. 11-15, 31-32. [↑](#footnote-ref-22)
+- ARE/BAFU, 2020, Integration von Informationen zur Bodenqualität in der Raumplanung, Synthesebericht, Bern S. 11-15, 31-32. [↑](#footnote-22)
 
-- UVEK/BAFU, 2010, Amtsstrategie Sport + Tourismus 2010-2012, Bern, S. 2-3. [↑](#footnote-ref-23)
+- UVEK/BAFU, 2010, Amtsstrategie Sport + Tourismus 2010-2012, Bern, S. 2-3. [↑](#footnote-23)
 
-- BAFU, 2020, Erläuterungsbericht Landschaftskonzept Schweiz: Landschaft und Natur in den Politikbereichen des Bundes, Bern, S. 31. [↑](#footnote-ref-24)
+- BAFU, 2020, Erläuterungsbericht Landschaftskonzept Schweiz: Landschaft und Natur in den Politikbereichen des Bundes, Bern, S. 31. [↑](#footnote-24)
 
-- BFS, 2019, Arealstatistik 2013/2018, Neuenburg (Zwischenauswertung; 83 Prozent der Gesamtfläche der Schweiz) [↑](#footnote-ref-25)
+- BFS, 2019, Arealstatistik 2013/2018, Neuenburg (Zwischenauswertung; 83 Prozent der Gesamtfläche der Schweiz) [↑](#footnote-25)
 
-- BFS, 2019, Mobilität und Verkehr, Taschenstatistik, Neuenburg, S.2. [↑](#footnote-ref-26)
+- BFS, 2019, Mobilität und Verkehr, Taschenstatistik, Neuenburg, S.2. [↑](#footnote-26)
 
-- ARE, 2018, Trends und Herausforderungen: Zahlen und Hintergründe zum Raumkonzept Schweiz, S. 35. [↑](#footnote-ref-27)
+- ARE, 2018, Trends und Herausforderungen: Zahlen und Hintergründe zum Raumkonzept Schweiz, S. 35. [↑](#footnote-27)
 
-- Schweizerischer Bundesrat, 2018, Umwelt Schweiz 2018: Bericht des Bundesrats*,* S.101. [↑](#footnote-ref-28)
+- Schweizerischer Bundesrat, 2018, Umwelt Schweiz 2018: Bericht des Bundesrats*,* S.101. [↑](#footnote-28)
 
-- Ebd., S. 82. [↑](#footnote-ref-29)
+- Ebd., S. 82. [↑](#footnote-29)
 
-- Ebd., S. 68. [↑](#footnote-ref-30)
+- Ebd., S. 68. [↑](#footnote-30)
 
-- Schweizerischer Bundesrat, 2018, Umwelt Schweiz, Bern, S. 100. [↑](#footnote-ref-31)
+- Schweizerischer Bundesrat, 2018, Umwelt Schweiz, Bern, S. 100. [↑](#footnote-31)
 
-- ARE, 2017, Bauzonenstatistik Schweiz 2017: Statistik und Analysen, S. 32. [↑](#footnote-ref-32)
+- ARE, 2017, Bauzonenstatistik Schweiz 2017: Statistik und Analysen, S. 32. [↑](#footnote-32)
 
-- Rat für Raumordnung (ROR), 2019, Megatrends und Raumentwicklung Schweiz, Bern, S. 25-37. [↑](#footnote-ref-33)
+- Rat für Raumordnung (ROR), 2019, Megatrends und Raumentwicklung Schweiz, Bern, S. 25-37. [↑](#footnote-33)

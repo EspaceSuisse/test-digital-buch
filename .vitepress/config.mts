@@ -1,9 +1,15 @@
 import { defineConfig } from 'vitepress'
+import markdownItFootnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: './content', 
   base: '/',
+    markdown: {
+    config: (md) => {
+      md.use(markdownItFootnote)
+    }
+  },
   head: [
     [
       'link',
@@ -133,7 +139,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/EspaceSuisse/test-digital-buch' }
     ]
   }
 })
