@@ -17,7 +17,7 @@ jobs:
       # These will match your VitePress config's `base` option
       # If your repo is 'username.github.io', set this to '/'
       # If your repo is 'MyUsername/my-vitepress-site', set this to '/my-vitepress-site/'
-      BASE_URL: /{{ YOUR_REPO_NAME }}/ # Replace {{ YOUR_REPO_NAME }} with your actual repository name
+      BASE_URL: /{{ test-digital-buch }}/ # Replace {{ YOUR_REPO_NAME }} with your actual repository name
 
     steps:
       - name: Checkout

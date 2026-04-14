@@ -8,7 +8,7 @@ Die Ressource Boden ist in der Schweiz ein kostbares Gut. Das Land weist eine Ge
 
 Als besiedelbare Flächen gelten lediglich etwas mehr als 30 Prozent der gesamten Landesfläche. Dazu zählen die Siedlungsflächen und die landwirtschaftlichen Nutzflächen, ohne die alpwirtschaftlichen Maiensässe, Bergwiesen und Alpweiden. Auf diesem knappen Drittel spielt sich das Leben in der Schweiz mehrheitlich ab. Den Boden nutzen wir für das Wohnen und Arbeiten, für unsere Mobilität, für Versorgungs- und Entsorgungseinrichtungen, für gewerbliche und landwirtschaftliche Produktion sowie für die Erholung.
 
-![Veränderung Siedlungsfläche](img/de/Abb_1_Veranderung_Siedlungsflaeche.jpg)
+![Veränderung Siedlungsfläche](./img/de/Abb_1_Veranderung_Siedlungsflaeche.jpg)
 *Abbildung 1: Hauptsächlich im Mittelland, in einem Streifen vom Genfersee bis zum Bodensee, sowie in den Talböden des Wallis und des Tessins haben sich die Siedlungsflächen in den letzten Jahrzehnten ausgedehnt.*
 
 Quelle: BFS, 2019, Landschaft Schweiz im Wandel - Siedlungsentwicklung, Neuenburg, S. 1
@@ -17,7 +17,7 @@ Die Siedlungsfläche der Schweiz hat sich seit 1950 gut verdoppelt. In den letzt
 
 Mit der Ausdehnung der Siedlungsflächen wurden in den letzten Jahrzehnten verschiedene wertvolle land- und forstwirtschaftliche Nutzflächen überbaut. Sind diese erst einmal verloren, kann dieser Verlust nicht mehr rückgängig gemacht werden (>Abbildung 2).
 
-![Titel](img/de/Abb.-2_Herkunft-neue-Siedlungsflaechen.jpg)
+![Titel](./img/de/Abb.-2_Herkunft-neue-Siedlungsflaechen.jpg)
 *Abbildung 2: Wohn- und Gewerbebauten, Einkaufs- und Logistikzentren, aber auch Sportanlagen und Strassen entstanden vorwiegend auf Ackerland und Wiesen.*
 
 Quelle: BFS, 2019, Landschaft im Wandel - Siedlungsentwicklung, Neuenburg, S. 3
@@ -30,14 +30,14 @@ Seit den 1980er-Jahren hat aber auch die Waldfläche um rund 4 Prozent zugenomme
 
 ### Vorher - nachher - Bild Liestal: Aktualisierung durch RR
 
-![Dings](img/de/Abb.-3.1_Landschaftswandel-Liestal-1904.jpg)
+![Dings](./img/de/Abb.-3.1_Landschaftswandel-Liestal-1904.jpg)
 ## 1.2 Bevölkerung und Wohnen
 
 Die Ursachen für den massiven Bodenverbrauch der letzten Jahrzehnte sind vielfältig. Mitverantwortlich sind neben der Bevölkerungszunahme auch wirtschaftliche, technische und gesellschaftliche Veränderungen. Betrachtet man die Wachstumskurven von Bevölkerung und Siedlungsflächenverbrauch, fällt auf, dass diese nicht parallel verlaufen. Die verbesserte Wirtschaftslage und der Trend zu Kleinhaushalten bewirkten, dass das Wachstum der Siedlungsflächen prozentual höher ausfiel als das Bevölkerungswachstum. Damit nahm die Siedlungsfläche pro Person in den letzten Jahren kontinuierlich zu. In seiner «Strategie Nachhaltige Entwicklung» von 2002 strebte der Bundesrat an, die Siedlungsfläche pro Einwohnerin und Einwohner auf 400 m<sup>2</sup> zu beschränken (Stand 2009: etwa 407 m<sup>2</sup> pro Person<sup>[\[3\]](#footnote-3)</sup>). Heute beträgt der Flächenverbrauch in städtischen Kantonen zwischen 140 und 300 m<sup>2</sup> und in ländlichen sowie in Tourismuskantonen zwischen 500 und 830 m<sup>2</sup>.<sup>[\[4\]](#footnote-4)</sup>
 
 Der Bodenverbrauch für das Wohnen hat in den letzten rund 40 Jahren um über 60 Prozent zugenommen*.<sup>[\[5\]](#footnote-5)</sup>* Vor rund hundert Jahren lebten noch mehr als 50 Prozent aller Menschen in der Schweiz in einem Grosshaushalt von fünf und mehr Personen. Heute sind es noch 14 Prozent. Fast 70 Prozent der Haushalte sind heute Kleinhaushalte mit ein bis zwei Personen. In den Städten ist dieser Anteil gar noch höher; in Zürich, Genf oder Locarno lag der Anteil der Einpersonenhaushalte 2018 bei 45 Prozent, in Basel und Lausanne bei rund 48 Prozent<sup>[\[6\]](#footnote-6)</sup> (> Abbildung 4). Gründe dafür sind u. a. die Alterung der Gesellschaft und die Individualisierung, aber auch der Anspruch der Wirtschaft an die räumliche Flexibilität der Mitarbeitenden.
 
-![](img/de/Abb.-4_Haushalte-und-Personen.jpg)
+![](./img/de/Abb.-4_Haushalte-und-Personen.jpg)
 *Abbildung 4: 2018 zählten 69 Prozent der Haushalte in der Schweiz zu den Kleinhaushalten mit ein bis zwei Personen.*
 
 Quelle: BFS, 2019, Statistik der Bevölkerung und der Haushalte 2018, Neuenburg, /bfs/de/home/statistiken/bevoelkerung/stand-entwicklung/haushalte.html (Abfrage 26.8.2020)
@@ -50,14 +50,14 @@ Die Bevölkerungsszenarien des Bundesamtes für Statistik (BFS) zeigen, dass die
 
 Die Bevölkerung der Schweiz ist so mobil wie noch nie. Täglich verbringen Herr und Frau Schweizer durchschnittlich 90 Minuten im Verkehr<sup>[\[9\]](#footnote-9)</sup> und legen dabei 36,8 Kilometer zurück.<sup>[\[10\]](#footnote-10)</sup> Mit Abstand wichtigster Verkehrszweck ist die Freizeit (50 %der Unterwegszeit), gefolgt von der Arbeit (19 %), dem Einkaufen (15 %) und der Ausbildung (6 %) (>Abbildung 5).<sup>[\[11\]](#footnote-11)</sup>
 
-![](img/de/Abb.-5_Taegliche-Unterwegszeit.jpg)
+![](./img/de/Abb.-5_Taegliche-Unterwegszeit.jpg)
 *Abbildung 5: Der Freizeitverkehr macht mit 45 Minuten die Hälfte der Unterwegszeit aller Schweizerinnen und Schweizer aus.*
 
 Quelle: BFS, 2020, Mobilität und Verkehr, Taschenstatistik 2020, Neuenburg, S. 2
 
 65 Prozent der zurückgelegten Kilometer werden dabei mit dem Auto und 24 Prozent mit dem öffentlichen Verkehr bewältigt (>Abbildung 6).<sup>[\[12\]](#footnote-12)</sup> Der Langsamverkehr (Fussgängerinnen, Velofahrer) scheint eine untergeordnete Rolle zu spielen. Dieser Eindruck täuscht jedoch: Insgesamt fallen nämlich 41 Prozent der gesamten Unterwegszeit auf den Fuss- oder Veloverkehr. Damit wird deutlich, dass diesen Fortbewegungsmöglichkeiten in der Siedlungsentwicklung eine hohe Bedeutung zukommt, was umso mehr ins Gewicht fällt, als 46 Prozent aller Autofahrten kürzer als fünf Kilometer sind. Somit besteht ein wesentliches Potenzial für mehr Langsamverkehr.
 
-![](img/de/Abb.-6_Verkehrsmittelwahl-2015.jpg)
+![](./img/de/Abb.-6_Verkehrsmittelwahl-2015.jpg)
 
 *Abbildung 6: Nur 7 Prozent der Tagesdistanz werden zu Fuss oder mit dem Velo zurückgelegt. Das entspricht aber 41 Prozent der Zeit, während der die Bevölkerung unterwegs ist.*
 
@@ -101,7 +101,7 @@ Die vielfältigen Landschaften der Schweiz, die sich durch ihre räumlichen Unte
 
 Infolge des Siedlungswachstums und des Ausbaus der Verkehrswege (> Ziff. 1.2 und 1.3) hat die Zerschneidung der Landschaft in den letzten Jahrzehnten stark zugenommen. Die zerschnittenen Flächen (Restflächen) erschweren die Vernetzung der Landschaften und der Ökosysteme. Diese Vernetzung ist jedoch notwendig, um einen Rückgang der Biodiversität und damit eine Abnahme der Artenvielfalt zu verhindern (> Ziff. 12.3). Biodiversität ist angewiesen auf eine Vielfalt an Ökosystemen und genetischen Arten sowie auf die Wechselwirkungen zwischen diesen. Mit Vernetzungskorridoren lassen sich unterschiedliche Ökosysteme - beispielsweise Naturschutzgebiete, extensiv genutzte landwirtschaftliche Flächen, Gewässerräume oder städtische Grün- und Freiräume - wieder miteinander verbinden. Auch der Wildwechsel kann dadurch gefördert werden. Heute sind etwa 12,5 Prozent der Landesfläche der Schweiz als Gebiete mit hoher Biodiversität ausgewiesen. 6,2 Prozent davon sind nationale Schutzgebiete, 3,1 Prozent sind auf kantonaler Ebene geschützt.<sup>[\[28\]](#footnote-28)</sup> Die Raumplanung kann mithelfen, die ökologische Infrastruktur weiter auszubauen und zu sichern.
 
-![](img/de/Abb.-7_Biodiversität-und-Naturräume.jpg)
+![](./img/de/Abb.-7_Biodiversität-und-Naturräume.jpg)
 *Abbildung 7: Fast die Hälfte aller untersuchten Tier- und Pflanzenarten in der Schweiz sind gefährdet.*
 
 Quelle: ARE, 2018, Trends und Herausforderungen: Zahlen und Hintergründe zum Raumkonzept Schweiz, S. 35
@@ -120,7 +120,7 @@ Im Jahr 2017 waren in der Schweiz 2320 km<sup>2</sup> Bauzonen ausgeschieden, wa
 
 Der öffentliche Verkehr ist für die Nutzerinnen und Nutzer attraktiv, wenn der Fahrplan dicht und die Verbindungen möglichst direkt sind. Je kompakter und urbaner die Siedlungsstrukturen sind, desto grösser sind die Anteile des öffentlichen sowie des Fuss‑ und Veloverkehrs (> Abbildung 8). Die Siedlungsentwicklung nach innen trägt somit dazu bei, öffentliche Verkehrsmittel attraktiver zu machen und deren Kostendeckungsgrad zu erhöhen.
 
-![](img/de/Abb.-8_Modalsplit-nach-Anzahl-Etappen.jpg)
+![](./img/de/Abb.-8_Modalsplit-nach-Anzahl-Etappen.jpg)
 Abbildung 8: Je dichter die Siedlung ist, desto weniger Wege werden mit dem Auto zurückgelegt. Dafür nimmt die Bedeutung des Fussverkehrs zu.
 
 Quelle: ARE, 2018, Dichte und Mobilitätsverhalten, Bern, S. 15
